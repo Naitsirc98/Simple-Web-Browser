@@ -1,2 +1,2 @@
 # Simple-Web-Browser
-Pequeña practica de la clase sobre JavaFX completa.
+Pequeña práctica de la clase sobre JavaFX completa.
